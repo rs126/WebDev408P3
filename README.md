@@ -29,6 +29,8 @@ it displayed at the side.
 Note: The main point of the project was to learn how to format with CSS. Therefore,
 There are tests leftover from the template but they will not work.
 
+Note: should resize with viewport.
+
 To run the tests for the project, run the following command:
 
 ```bash
