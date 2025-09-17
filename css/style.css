@@ -22,12 +22,12 @@ body{
 }
 
 .headerdiv img{
-    width: 7vw;
-    height: 7vh;
+    width: 6vw;
+    height: 6vh;
     position: absolute;
     right: 15px;
+    top: 20px;
 
-    margin-top: -2vh;
 }
 
 .nestedheaderdiv{
