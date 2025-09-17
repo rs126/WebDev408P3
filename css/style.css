@@ -17,12 +17,15 @@ body{
     font-size: 4vw;
     margin-top: -2vh;
     margin-left: 19vh;
-    padding-right: 30%;
+    padding-right: 35vw;
+    text-shadow: black 1px 0 10px;
 }
 
 .headerdiv img{
     width: 7vw;
     height: 7vh;
+    position: absolute;
+    right: 15px;
 
     margin-top: -2vh;
 }
@@ -38,7 +41,6 @@ body{
     background-color: #29e929;
     padding: 1vw;
     padding-left: 2vw;
-    margin-left: 2vw;
     margin-top: -2vh;
 
 }
@@ -73,8 +75,8 @@ body{
 .WelcomeMessage{
     background-color: #29e929;
     height: 57vh;
-    margin-right: 2vw;
-    width: 120vw;
+    margin-right: 1vw;
+    width: 123vw;
     padding: 1%;
 }
 
