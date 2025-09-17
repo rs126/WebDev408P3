@@ -35,7 +35,7 @@ To run the tests for the project, run the following command:
 npm test
 ```
 
-##Citations
+## Citations
 
 “Text-Shadow - CSS | MDN.” MDN Web Docs, 13 Aug. 2025, https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow.
 
