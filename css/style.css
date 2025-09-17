@@ -1,29 +1,131 @@
-h1{
-  border-color: #d3e644;
-  border-style: dashed;
+body{
+    background-color: #a9a9a9;
 }
 
-table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-bottom: 20px;
+.headerdiv{
+    background-color: #54d254;
+    padding: .5%;
+    padding-top: 2vw;
+    padding-right: 1vw;
+    margin-bottom: 1vw;
+    height: 10vw;
+    top: 0;
 }
 
-th, td {
-  padding: 12px 15px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
+.headerdiv h1{
+    font-family: 'Cinzel Decorative';
+    font-size: 4vw;
+    margin-top: -2vh;
+    margin-left: 19vh;
+    padding-right: 30%;
 }
 
-th {
-  background-color: #f2f2f2;
-  font-weight: bold;
+.headerdiv img{
+    width: 7vw;
+    height: 7vh;
+
+    margin-top: -2vh;
 }
 
-tbody tr:nth-child(even) {
-  background-color: #f9f9f9;
+.nestedheaderdiv{
+    display: flex;
+    margin-left: 10vw;
 }
 
-tbody tr:hover {
-  background-color: #e9e9e9;
+
+.headerdiv ul{
+    display: flex;
+    background-color: #29e929;
+    padding: 1vw;
+    padding-left: 2vw;
+    margin-left: 2vw;
+    margin-top: -2vh;
+
 }
+
+
+
+.headerdiv a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.headerdiv li{
+    list-style: none;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    font-size: 2vw;
+    font-family: 'Roboto Condensed';
+
+}
+
+.WelcomeDiv{
+    background-color:#54d254;
+    padding: 1vw;
+    height: 60vh;
+    display: flex;
+    margin-bottom: 2vh;
+
+}
+
+
+.WelcomeMessage{
+    background-color: #29e929;
+    height: 57vh;
+    margin-right: 2vw;
+    width: 120vw;
+    padding: 1%;
+}
+
+.WelcomeMessage h2{
+    font-size: 3vw;
+    font-family: 'Cinzel Decorative';
+    text-align: center;
+}
+
+.WelcomeMessage p{
+    font-size: 1.5vw;
+}
+
+
+.FavouritePhoto{
+    background-color: #29e929;
+    height: 60vh;
+    text-align: center;
+}
+
+.FavouritePhoto img{
+    width: 12vw;
+    height: 18vh;
+}
+
+.FavouritePhotodiv{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 1vw;
+    margin-top: -1vw;
+    
+}
+
+.FavouritePhoto h2{
+    font-size: 3vw;
+    font-family: 'Cinzel Decorative';
+}
+
+.FooterDiv{
+    background-color: #54d254;
+    bottom: -20vh;
+    padding-top: 1vh;
+    padding-left: 1vh;
+}
+
+.FooterDiv p{
+    font-size: 2vh;
+    font-family: 'Roboto Condensed';
+    margin-top: 1vh;
+    margin-right: 2vh;
+    padding-bottom: 3px;
+
+}
+
