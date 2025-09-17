@@ -1,8 +1,9 @@
 # web-dev-starter
 
+This projects main objective is to style a birdwatching themed webpage with CSS. 
 This is a starter project for web development with no frameworks and minimal
 dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+that are written in plain HTML and formatted in CSS. 
 
 ## Getting Started
 
@@ -18,9 +19,15 @@ This will install the necessary dependencies for the project.
 It is recommended to use the VSCode Live Server extension to run the project
 locally. This will allow you to see changes in real-time as you make them. There
 is no need to run a build process or refresh the page manually. Additionally,
-you do not need to setup a local server to run the project.
+you do not need to setup a local server to run the project. When index.html file is
+opened the preview icon will appear at the top right corner. Once clicked you can
+either copy and paste the address it gives you into a browser window or leave
+it displayed at the side. 
 
 ## Testing
+
+Note: The main point of the project was to learn how to format with CSS. Therefore,
+There are tests leftover from the template but they will not work.
 
 To run the tests for the project, run the following command:
 
