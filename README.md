@@ -34,3 +34,10 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+##Citations
+
+“Text-Shadow - CSS | MDN.” MDN Web Docs, 13 Aug. 2025, https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow.
+
+CSS Flexbox Items. https://www.w3schools.com/css/css3_flexbox_items.asp. Accessed 16 Sep. 2025.
+
